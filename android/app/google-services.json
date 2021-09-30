@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "478078923005",
+    "project_id": "alaraf-9a099",
+    "storage_bucket": "alaraf-9a099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478078923005:android:dab63e6545ede5b7534e94",
+        "android_client_info": {
+          "package_name": "com.cabu.alaraf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478078923005-fmdos765eribu1de5gc9v8i3q2q9hmc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjDRKPBu1ItlyepOtcOgRdeVrNL1u7XHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478078923005-fmdos765eribu1de5gc9v8i3q2q9hmc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478078923005:android:0092435400f6323e534e94",
+        "android_client_info": {
+          "package_name": "com.example.alaraf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478078923005-fmdos765eribu1de5gc9v8i3q2q9hmc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjDRKPBu1ItlyepOtcOgRdeVrNL1u7XHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478078923005-fmdos765eribu1de5gc9v8i3q2q9hmc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
